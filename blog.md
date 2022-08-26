@@ -19,7 +19,7 @@
 
 
 ### What is something about you that can only be learned by reading this blog? ###
-- I've worked the past 33 years in the automotive industry. Very eager to start a new direction in life!!
+- I've worked the past 33 years in the automotive industry. Very eager to start a new direction in life.
 - Huge SEC football fan. Can you guess which team...Roll Tide!!
 - Can drive an M1 Abrams tank if needed.
 
