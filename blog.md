@@ -10,12 +10,12 @@
   - Everyone eager to learn
 - Progressing through the material faster than I had hoped. Hopeully due to receiving the Sprint 1 material later than usual.
 
+---
 
 ### What are you excited or eager to learn more about? ###
 - Eager to learn more about all of the "Gits". Getting a firm foundation on how to use them and how they are related is crucial.
 - Excited to see how this
-
-
+---
 ### What is something about you that can only be learned by reading this blog? ###
 - I've worked the past 33 years in the automotive industry. Very eager to start a new direction in life!!
 - Huge SEC football fan. Can you guess which team...Roll Tide!!
