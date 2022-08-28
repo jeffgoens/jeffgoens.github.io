@@ -1,6 +1,7 @@
 # Jeff's Bootcamp Blog #
 
-## Week 1   8-26-22 ##
+## Week 1 ##
+### 8-26-22 ###
 
 ### Was your first week what you expected? Why? Why not? ###
 - Did not know what to expect for the Onboarding process. Kept an open mind regarding how it would flow, especially since it's remote.
