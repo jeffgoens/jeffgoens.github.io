@@ -1,6 +1,8 @@
 ## Week 2 ##
 ### *9-3-22* ###
 
+[Blog Home](https://github.com/jeffgoens/jeffgoens.github.io)
+
 ### What is something yo wish you could do but currently do not have the coding skills to accomplish? ###
 - Add answer here
 
