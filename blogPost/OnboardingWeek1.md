@@ -1,5 +1,3 @@
-# Jeff's Bootcamp Blog #
-
 ## Week 1 ##
 ### *8-26-22* ###
 
