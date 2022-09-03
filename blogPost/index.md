@@ -9,5 +9,5 @@
 
 
 ### Link to weekly blog post:
-- [Onboarding Week 1](blogPost/OnboardingWeek1.md)
-- [Onboarding Week 2](blogPost/OnboardingWeek2.md)
+- [Onboarding Week 1](https://jeffgoens.github.io/blogPost/OnboardingWeek1.html)
+- [Onboarding Week 2](https://jeffgoens.github.io/blogPost/OnboardingWeek2.html)
