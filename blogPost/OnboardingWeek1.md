@@ -1,6 +1,8 @@
 ## Week 1 ##
 ### *8-26-22* ###
 
+[Blog Home](../index.md)
+
 ### Was your first week what you expected? Why? Why not? ###
 - Did not know what to expect for the Onboarding process. Kept an open mind regarding how it would flow, especially since it's remote.
 - Expectations have been exceeded regarding class structure:
