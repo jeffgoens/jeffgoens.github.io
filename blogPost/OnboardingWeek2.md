@@ -12,17 +12,18 @@
 - Time management - which leads to completing the minimum requirements each week for demo day.
 
 ### How do you solve a problem?
-- Considering my automotive background, it's hard not use TPS when I look at a problem. I don't use the entire 8 Step Toyota Way, only the basic steps. Applying these concepts to coding issues may look a little different, but the basic concepts should still apply:
+- Considering my automotive background, it's hard not use TPS when I look at a problem. I don't use the entire 8 Step Toyota Way, only the basic steps. Applying these concepts to coding issues may look a little different, but the basic concepts are the same:
     - Clarify the Problem - what is happening vs. what should be happening. The difference between the two is your problem.
     - Breakdown the Problem / Root Cause - what you believe to be the problem may not be the actual root cause. Use 5 Why method to find the actual issue.
     - Develop and Implement Countermeasures
     - Monitor the Results - did the fix or countermeasure address the issue.
 
 ### What methods do you use to help yourself get unstuck?
-- To help myself get unstuck on coding issues, I usually take this approach:
-    - 
+- To help myself get unstuck on coding issues, I usually take one of the following approaches:
+    - Retrace my steps through the code, maybe the code isn't working because I forot something simple. Did I overlook a step in the process, did I forget a closing bracket, is a variable misspelled, etc.
+    - Use resources to find the solution - Google, MDN, W3schools.
+    - Take a step back and completely remove myself from the computer. Could be taking the dogs for a walk or going out in the yard and pulling weeds. Using this time to breath in some fresh air and clear my thoughts.
 
--There are a couple of ways I go about getting unstuck. Research the issue to see First I go over the issue step x step. Verbally speaking the action of each step and what it should be doing. If that doesn't work, I then step away from the problem for a brief amount
 
 
 
