@@ -9,4 +9,4 @@
 
 
 ### Link to weekly blog post:
-
+https://jeffgoens.github.io/
