@@ -9,5 +9,5 @@
 ### What are some objects that your blog incorporates?
  - At this point in my coding journey, my blog is rather simplistic and straightforward. Offering only the basics in an easy to read format, and incorporating a hyperlink for each blog week. There are no eye popping graphics, backgrounds or color schemes. 
 
- ### What are your thoughts on pseudocoding?
+### What are your thoughts on pseudocoding?
  - After completing the project, I can easily see how important pseudocoding is and the role it plays. Providing the blueprint that helps you plan out the steps needed to tackle a project. 
