@@ -3,7 +3,7 @@
 
 [Blog Home](https://jeffgoens.github.io)
 ## Q & A
-### What as helpful during Onboarding working remotely?
+### What was helpful during Onboarding working remotely?
 - Answer goes here
 
 ### What hindered your progress during Onboarding?
