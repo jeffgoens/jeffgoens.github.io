@@ -13,3 +13,4 @@
 - [Onboarding Week 2](https://jeffgoens.github.io/blogPost/OnboardingWeek2.html)
 - [Onboarding Week 3](https://jeffgoens.github.io/blogPost/OnboardingWeek3.html)
 - [Onboarding Week 4](https://jeffgoens.github.io/blogPost/OnboardingWeek4.html)
+- [In-Person Week 5](https://jeffgoens.github.io/blogPost/Week5.html)
